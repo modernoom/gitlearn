@@ -1,2 +1,2 @@
-git is a version controller
-git is free
+git is not a version controller
+git is not free
